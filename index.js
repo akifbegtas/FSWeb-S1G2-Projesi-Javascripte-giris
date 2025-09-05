@@ -13,13 +13,15 @@ Bunun için cevabı direk console'a logla veya çağırdığın fonksiyondan dö
 /*
 Görev 1a - Ehliyet Yaşı (puanlamaya dahil değildir)
 
+
 Aşağıdakileri yap:   
    1. surucuYasi isimli bir değişken yaz ve bir sayı ata.
    2. Eğer yaş 18'den büyük ise Console'da true, değilse false değeri yazdırın.
 
    İPUCU: fonksiyon oluşturmaya gerek yok
 */
-
+const surucuYasi = 22;
+console.log(surucuYasi > 18);
 /*
 Görev 1b - Değerler (puanlamaya dahil değildir)
 
